@@ -15,16 +15,17 @@ Invoice Generator
 Running the script is really simple! Just open a terminal in the folder where your program is located and run the following commands:
 
 To compile:
+gcc program_nm.c -o executable_name
 
 To run:
 ./executable_name
 
 
 ## Completed Problems
-1.Added basic code and header function
+1. Added basic code and header function
+2. Added Body & Footer function
 
-## contribute
-Body and  footer function
 
 ## Contributers
 [Nupur Chavan](https://github.com/NupurChavan)
+[Vedanti Raut](https://github.com/vedantiraut21)	
